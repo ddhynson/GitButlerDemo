@@ -1,0 +1,14 @@
+{
+  "TemplateData": [
+    {
+      "Name": "Company Name",
+      "UniqueName": "CompanyName",
+      "PropertyType": "System.String"
+    },
+    {
+      "Name": "License Number",
+      "UniqueName": "LicenseNumber",
+      "PropertyType": "System.String"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "TemplateData": [
+    {
+      "Name": "Buyer 1",
+      "UniqueName": "BuyerOne",
+      "PropertyType": "System.String"
+    },
+    {
+      "Name": "Buyer 2",
+      "UniqueName": "BuyerTwo",
+      "PropertyType": "System.String"
+    },
+    {
+      "Name": "Is Buyer 1 Company?",
+      "UniqueName": "IsBuyerOneCompany",
+      "PropertyType": "System.Boolean"
+    }
+  ]
+}
