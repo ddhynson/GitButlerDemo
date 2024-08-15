@@ -1,0 +1,19 @@
+{
+  "TemplateData": [
+    {
+      "Name": "Vendor 1",
+      "UniqueName": "VendorOne",
+      "PropertyType": "System.String"
+    },
+    {
+      "Name": "Vendor 2",
+      "UniqueName": "VendorTwo",
+      "PropertyType": "System.String"
+    },
+    {
+      "Name": "Is Vendor 1 Company?",
+      "UniqueName": "IsVendorOneCompany",
+      "PropertyType": "System.Boolean"
+    }
+  ]
+}
