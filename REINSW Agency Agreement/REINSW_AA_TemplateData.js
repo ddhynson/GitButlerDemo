@@ -9,5 +9,7 @@ function REINSW_AA_TemplateData (data) {
     ? "Yes"
     : "No";
 
+  OUTPUT.TestOutput = "test";
+
   return JSON.stringify(OUTPUT) || "";
 }
