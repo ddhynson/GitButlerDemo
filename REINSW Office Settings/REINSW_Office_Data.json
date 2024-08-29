@@ -9,6 +9,11 @@
       "Name": "License Number",
       "UniqueName": "LicenseNumber",
       "PropertyType": "System.String"
+    },
+    {
+      "Name": "License Number 2",
+      "UniqueName": "LicenseNumber2",
+      "PropertyType": "System.String"
     }
   ]
 }
