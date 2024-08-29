@@ -3,7 +3,7 @@ function REINSW_AA_TemplateData (data) {
   const OUTPUT = {};
 
   OUTPUT.VendorOneName = INPUT.VendorOne;
-  OUTPUT.VendorTwoName = INPUT.VendorTwo;
+  OUTPUT.VendorTwoName = "Vendor Two New Name";
   
   OUTPUT.IsVendorCompany = INPUT.IsVendorOneCompany
     ? "Yes"
